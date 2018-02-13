@@ -1,3 +1,3 @@
 # hello-world
 
-Hi there am Natal, the new guy.
+Hi there I am Natal, the new guy.
